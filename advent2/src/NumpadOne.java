@@ -65,7 +65,7 @@ public class NumpadOne {
                 else if(activeNumber.equals(advent2.Number.NINE))
                     activeNumber = advent2.Number.EIGHT;
                 break;
-                
+
         }
         return activeNumber;
     }
